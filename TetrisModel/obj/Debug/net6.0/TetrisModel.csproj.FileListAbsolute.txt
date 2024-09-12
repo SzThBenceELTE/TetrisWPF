@@ -1,0 +1,30 @@
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\bin\Debug\net6.0\TetrisModel.exe
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\bin\Debug\net6.0\TetrisModel.deps.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\bin\Debug\net6.0\TetrisModel.runtimeconfig.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\bin\Debug\net6.0\TetrisModel.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\bin\Debug\net6.0\TetrisModel.pdb
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.csproj.AssemblyReference.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.AssemblyInfoInputs.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.AssemblyInfo.cs
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.csproj.CoreCompileInputs.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\obj\Debug\net6.0\refint\TetrisModel.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.pdb
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.genruntimeconfig.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisModel\obj\Debug\net6.0\ref\TetrisModel.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\bin\Debug\net6.0\TetrisModel.exe
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\bin\Debug\net6.0\TetrisModel.deps.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\bin\Debug\net6.0\TetrisModel.runtimeconfig.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\bin\Debug\net6.0\TetrisModel.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\bin\Debug\net6.0\TetrisModel.pdb
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.csproj.AssemblyReference.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.AssemblyInfoInputs.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.AssemblyInfo.cs
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.csproj.CoreCompileInputs.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\obj\Debug\net6.0\refint\TetrisModel.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.pdb
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\obj\Debug\net6.0\TetrisModel.genruntimeconfig.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisModel\obj\Debug\net6.0\ref\TetrisModel.dll

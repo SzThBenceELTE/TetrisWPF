@@ -1,0 +1,46 @@
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisView.exe
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisView.deps.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisView.runtimeconfig.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisView.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisView.pdb
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.csproj.AssemblyReference.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.Form1.resources
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.csproj.GenerateResource.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.AssemblyInfoInputs.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.AssemblyInfo.cs
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.csproj.CoreCompileInputs.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\refint\TetrisView.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.pdb
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.genruntimeconfig.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\ref\TetrisView.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisModel.deps.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisModel.runtimeconfig.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisModel.exe
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisModel.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisModel.pdb
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.csproj.CopyComplete
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.csproj.AssemblyReference.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.csproj.GenerateResource.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.AssemblyInfoInputs.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.AssemblyInfo.cs
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.csproj.CoreCompileInputs.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\refint\TetrisView.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.pdb
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisModel.deps.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisModel.runtimeconfig.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisModel.exe
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisView.exe
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisView.deps.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisView.runtimeconfig.json
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisView.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisView.pdb
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisModel.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\bin\Debug\net6.0-windows\TetrisModel.pdb
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.csproj.CopyComplete
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.genruntimeconfig.cache
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\ref\TetrisView.dll
+C:\Users\szthb\OneDrive\Asztali gép\ELTE\3. felev\EVA\Projekt - Tetris - Copy\Tetris\TetrisView\obj\Debug\net6.0-windows\TetrisView.GameWindow.resources
